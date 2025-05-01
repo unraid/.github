@@ -2,7 +2,7 @@
 
 ## Reporting Security Issues  
 
-If you believe you've found a security vulnerability in this project, please **do not create a public issue**. Instead, email us at **<contact@unraid.net>** with:  
+If you believe you've found a security vulnerability in this project, please **do not create a public issue**. Instead, email us at **<security@unraid.net>** with:  
 
 - A clear description of the issue
 - Steps to reproduce the vulnerability
